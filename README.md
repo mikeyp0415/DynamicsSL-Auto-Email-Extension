@@ -1,6 +1,10 @@
 # DynamicsSL-Auto-Email-Extension
 <img src="https://static.wikia.nocookie.net/logopedia/images/8/88/Dynamics.jpg/revision/latest?cb=20170424131832"/>
-A SQL-Code based DynamicsSL Auto-Email extension. 
+
+A SQL-Code based DynamicsSL Auto-Email extension.
+
+Once set-up/enabled, this script will automatically email ALL customers stored in your Dynamics application who have outstanding balances.
+A table with information about their balances will be emailed directly to the customer, and you can adjust how often the emails are sent!
 
 <h2>IMPORTANT!!!</h2>
 
