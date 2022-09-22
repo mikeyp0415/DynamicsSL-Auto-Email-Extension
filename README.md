@@ -1,4 +1,5 @@
 # DynamicsSL-Auto-Email-Extension
+<img src="https://static.wikia.nocookie.net/logopedia/images/8/88/Dynamics.jpg/revision/latest?cb=20170424131832"/>
 A SQL-Code based DynamicsSL Auto-Email extension. 
 
 <h2>IMPORTANT!!!</h2>
