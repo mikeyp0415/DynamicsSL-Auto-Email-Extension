@@ -143,8 +143,8 @@ and SLApplication..PJADDR.individual = @triggername
 </table>
 
  <br>
-  <p>For more information, or to pay an invoice please contact <strong>Tessa Phillips, Accounts Receivable Specialist:</strong><br>
-	<strong>Email:</strong> tessap@lawlessmangione.com<br><strong>Phone:</strong> 914.349.6723 </p>
+  <p>For more information, or to pay an invoice please contact <strong>INSERT-NAME-HERE, Accounts Receivable Specialist:</strong><br>
+	<strong>Email:</strong> INSERT-EMAIL-HERE<br><strong>Phone:</strong> INSERT-NUMBER-HERE </p>
   ';
 
 EXEC msdb.dbo.sp_send_dbmail
